@@ -39,3 +39,8 @@ Unuk install nodemon secara global, nodemon inin untuk nge running script nodejs
 ### `nodemon index`
 
 Untuk menjalankan aplikasi.
+
+
+## Testing API
+
+Untuk mencoba rest API bisa menggunakan postman atau menggunakan extention REST Client di VSCode. Untuk contoh dengan menggunakan REST Client bisa dilihat di pada file `request.rest`
